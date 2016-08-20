@@ -19,3 +19,4 @@ I am now fully on my smartphone for navigation, so this is no longer used.
 * Includes
   * The GPS
   * Cable with car charger
+* **Note**: Has a small crack at the top of the screen. Does not affect use.
