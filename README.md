@@ -13,5 +13,5 @@ Getting rid of some extra furnitures and electronics that we do not need any mor
 1. [Garmin GPS](items/gps.md) - $30
 2. [Heater](items/heater.md) - $20
 3. [Humidifier](items/humidifier.md) - $10
-4. [Desk Lamp (Black)](items/lamp_black.md) - $5
-5. [Desk Lamp (silver)](items/lamp_silver.md) - $5
+4. [Desk Lamp (Black)](items/desk_lamp_black.md) - $5
+5. [Desk Lamp (silver)](items/desk_lamp_silver.md) - $5
