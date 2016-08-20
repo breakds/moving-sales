@@ -15,3 +15,8 @@ Getting rid of some extra furnitures and electronics that we do not need any mor
 3. [Humidifier](items/humidifier.md) - $10
 4. [Desk Lamp (black)](items/desk_lamp_black.md) - $5
 5. [Desk Lamp (silver)](items/desk_lamp_silver.md) - $5
+
+## Entertainment
+
+1. [Sony PlayStation 3](items/ps3.md) - $120
+
