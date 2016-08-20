@@ -1,6 +1,6 @@
 # Garmin GPS
 
-![GPS](https://github.com/breakds/moving-sales/blob/master/photo/resized/gps.JPG)
+![GPS](https://github.com/breakds/moving-sales/blob/master/photo/resized/gps.png)
 
 ## Sale Info
 

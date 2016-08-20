@@ -1,6 +1,6 @@
 # Desk Lamp (Black)
 
-![Desk Lamp](https://github.com/breakds/moving-sales/blob/master/photo/resized/lamp_black.JPG)
+![Desk Lamp](https://github.com/breakds/moving-sales/blob/master/photo/resized/lamp_black.png)
 
 ## Sale Info
 

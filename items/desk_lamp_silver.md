@@ -1,6 +1,6 @@
 # Desk Lamp (Silver)
 
-![Desk Lamp](https://github.com/breakds/moving-sales/blob/master/photo/resized/lamp_silver.JPG)
+![Desk Lamp](https://github.com/breakds/moving-sales/blob/master/photo/resized/lamp_silver.png)
 
 ## Sale Info
 

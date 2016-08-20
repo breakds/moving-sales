@@ -1,7 +1,7 @@
 # Heater
 
-![Heater](https://github.com/breakds/moving-sales/blob/master/photo/resized/heater.JPG)
-![Heater](https://github.com/breakds/moving-sales/blob/master/photo/resized/heater2.JPG)
+![Heater](https://github.com/breakds/moving-sales/blob/master/photo/resized/heater.png)
+![Heater](https://github.com/breakds/moving-sales/blob/master/photo/resized/heater2.png)
 
 ## Sale Info
 

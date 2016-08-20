@@ -2,7 +2,7 @@
 
 
 ![Dining Table](https://github.com/breakds/moving-sales/blob/master/photo/resized/desk.png)
-![Dining Table](https://github.com/breakds/moving-sales/blob/master/photo/resized/desk2.JPG)
+![Dining Table](https://github.com/breakds/moving-sales/blob/master/photo/resized/desk2.png)
 
 ## Sale Info
 

@@ -1,6 +1,6 @@
 # Tea/Coffee Table
 
-![Dining Table](https://github.com/breakds/moving-sales/blob/master/photo/resized/table.JPG)
+![Dining Table](https://github.com/breakds/moving-sales/blob/master/photo/resized/table.png)
 
 ## Sale Info
 
