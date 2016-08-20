@@ -1,6 +1,6 @@
 # Humidifier
 
-![Humidifier](https://github.com/breakds/moving-sales/blob/master/photo/resized/humidifier.JPG)
+![Humidifier](https://github.com/breakds/moving-sales/blob/master/photo/resized/humidifier.png)
 
 ## Sale Info
 
