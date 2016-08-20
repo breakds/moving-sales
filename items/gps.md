@@ -1,6 +1,6 @@
 # Garmin GPS
 
-![Futon](https://github.com/breakds/moving-sales/blob/master/photo/resized/futon.png)
+![GPS](https://github.com/breakds/moving-sales/blob/master/photo/resized/gps.JPG)
 
 ## Sale Info
 
