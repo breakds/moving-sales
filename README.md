@@ -11,4 +11,4 @@ Getting rid of some extra furnitures and electronics that we do not need any mor
 ## Electronics
 
 1. [Garmin GPS](items/gps.md) - $30
-
+2. [Heater](items/heater.md) - $20
