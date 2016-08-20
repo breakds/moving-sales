@@ -16,4 +16,4 @@
 For the infamous winter in Boston :sweat_smile:
 
 * **Model**: Lasko 6435 ([Amazon](https://www.amazon.com/Lasko-6435-Designer-Ceramic-Oscillating/dp/B000N22JX6))
-* Lightly used
+* Only lightly used
