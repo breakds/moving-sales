@@ -14,7 +14,6 @@
 
 Humidifies your dry bedroom in the winter.
 
-* Crane Drop Shape Ultrasonic Cool Mist Humidifier [Amazon](https://www.amazon.com/Crane-Ultrasonic-Humidifier-Gallon-output/dp/B007P9QXR8)
+* Crane Drop Shape Ultrasonic Cool Mist Humidifier ([Amazon](https://www.amazon.com/Crane-Ultrasonic-Humidifier-Gallon-output/dp/B007P9QXR8))
 * **Color**: Pink
 * **Capacity**: 1 Gallon water
-* Only lightly used
