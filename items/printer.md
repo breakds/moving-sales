@@ -6,7 +6,7 @@
 ## Sale Info
 
 * **Price**: 
-  * **`$90** OBO
+  * **`$60** OBO
 * **Email**: break.ds+sales@gmail.com
 * **Notes**
   * Pick up only
@@ -14,7 +14,7 @@
 
 ## Description and Specs
 
-* **Model**: HP 3510 Wireless Color Inkjet Printer ([Amazon](https://www.amazon.com/gp/offer-listing/B008DWCF82))
+* **Model**: HP 3510 Wireless Color Inkjet Printer ([Amazon](https://www.amazon.com/HP-Wireless-Color-Inkjet-Printer/dp/B008DWCF82))
 * Both Black-White and Color Print
 * Wireless: Can be connected to your computer with cable or WIFI
 * It is also a very reliable scanner
