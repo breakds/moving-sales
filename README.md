@@ -23,3 +23,6 @@ Getting rid of some extra furnitures and electronics that we do not need any mor
 3. [PSP 3000 (white)](items/psp_white.md) - $45
 4. [Acer Projector](items/projector.md) - $300
 5. [Epson Projection Screen](items/screen.md) - $120
+6. [HDMI (long) Cable](items/hdmi-cable.md) - $6
+7. [Wii + Wii Fit](items/wii.md) - $10
+

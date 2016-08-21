@@ -23,4 +23,5 @@ Enjoy the theater at home, like a dream that comes true.
   * Projector
   * Power Supply
   * VGA to VGA cable
+  * Remote Control
 * Plus $80 to get the [screen](./screen.md)!
