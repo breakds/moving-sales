@@ -1,6 +1,6 @@
 # Moving Sales
 
-Located in Somerville, MA 01245.
+Located in **Somerville, MA 01245**.
 
 Getting rid of some extra furnitures and electronics that we do not need any more. You can also **make me an offer and name your own price**!
 
