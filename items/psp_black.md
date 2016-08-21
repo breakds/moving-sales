@@ -14,7 +14,7 @@
 ## Description and Specs
 
 * Color: Black
-* Cracked
+* Cracked :)
 * Comes with 2 Games
   * Monster Hunter P3
     * My favorite game :)
@@ -22,3 +22,4 @@
 * Includes:
   * Console
   * USB Charger
+  * SD card

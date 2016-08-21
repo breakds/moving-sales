@@ -14,10 +14,12 @@
 ## Description and Specs
 
 * Color: White
-* Cracked
+* Cracked :)
 * Comes with 2 Games
   * Monster Hunter P3
     * My favorite game :)
+  * Many other games
 * Includes:
   * Console
   * Charger
+  * SD card
