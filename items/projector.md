@@ -19,9 +19,11 @@ Enjoy the theater at home, like a dream that comes true.
 
 * **Model**: Acer 5380BD 720p Home Theater ([Amazon](https://www.amazon.com/Acer-H5380BD-720p-Theater-Projector/dp/B00I0VRE6E))
 * **Color**: White
+* Very portable
 * Includes:
   * Projector
   * Power Supply
   * VGA to VGA cable
   * Remote Control
+  * Its own carry bag
 * Plus $80 to get the [screen](./screen.md)!

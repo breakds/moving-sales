@@ -20,4 +20,4 @@ Our controllers are broken, so only charge $10 just to make sure the buyers are 
   * Wii Fit Board
   * All the cables
   * Comes with 4 games as shown in the photo
-  * **Does not** come with the controller, so you have to buy them (e.g. [Aamzon](https://www.amazon.com/Charging-Station-Rechargeable-Batteries-Wii-Nintendo/dp/B003DSAT0C))
+  * **Does not** come with the controller, so you have to buy them (e.g. [Aamzon](https://www.amazon.com/Yorking-Nunchuck-Controller-Built--Silicon/dp/B019VUAJK0))
