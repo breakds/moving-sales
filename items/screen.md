@@ -1,7 +1,7 @@
 # Epson Projection Screen
 
-![Projector](https://github.com/breakds/moving-sales/blob/master/photo/resized/projector.png)
-![Projector](https://github.com/breakds/moving-sales/blob/master/photo/resized/projector2.png)
+![Projector](https://github.com/breakds/moving-sales/blob/master/photo/resized/screen.png)
+![Projector](https://github.com/breakds/moving-sales/blob/master/photo/resized/screen2.png)
 
 ## Sale Info
 

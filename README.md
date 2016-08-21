@@ -19,7 +19,7 @@ Getting rid of some extra furnitures and electronics that we do not need any mor
 ## Entertainment
 
 1. [Sony PlayStation 3](items/ps3.md) - $120
-2. [PSP 3000 (white)](items/psp_black.md) - $50
-3. [PSP 3000 (black)](items/psp_white.md) - $45
+2. [PSP 3000 (black)](items/psp_black.md) - $50
+3. [PSP 3000 (white)](items/psp_white.md) - $45
 4. [Acer Projector](items/projector.md) - $300
 5. [Epson Projection Screen](items/screen.md) - $120
