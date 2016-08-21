@@ -10,7 +10,7 @@
   * **`$380`** OBD, Projector + [Screen](./screen.md)
 * **Email**: break.ds+sales@gmail.com
 * **Notes**
-  * Pick up by yourself
+  * Pick up only
   * No refund
 
 ## Description and Specs

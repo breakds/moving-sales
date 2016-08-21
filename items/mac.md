@@ -9,7 +9,7 @@
   * **`$200`** OBO
 * **Email**: break.ds+sales@gmail.com
 * **Notes** 
-  * Pick up by yourself
+  * Pick up only
   * No refund
 
 ## Description and Specs
@@ -23,4 +23,3 @@ This is an old gear. But it might be good if you just need a laptop to surf the 
   * The macbook
   * Charger
   * If you buy it, you will get the  HP keyboard (never used) for **FREE**!!
-

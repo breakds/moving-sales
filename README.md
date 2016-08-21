@@ -33,3 +33,4 @@ Yes we are done with video games. Selling most of our gears.
 1. [Apple Macbook](items/mac.md) - $200
 2. [Panosonic LX3 Digital Camera](items/lx3.md) - $100
 3. [Panosonic LX5 Digital Camera](items/lx5.md) - $130
+4. [HP Wireless Printer/Scanner](items/printer.md) - $90

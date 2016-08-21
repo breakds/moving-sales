@@ -7,7 +7,7 @@
 * **Price**: **`$6`**, OBO
 * **Email**: break.ds+sales@gmail.com
 * **Notes** 
-  * Pick up by yourslef
+  * Pick up only
   * No refund
 
 ## Description and Specs

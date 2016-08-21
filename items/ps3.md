@@ -9,7 +9,7 @@
   * **`$150`** OBO, Console + 2 Controllers + All Games
 * **Email**: break.ds+sales@gmail.com
 * **Notes** 
-  * Pick up by yourself
+  * Pick up only
   * No refund
 
 ## Description and Specs
