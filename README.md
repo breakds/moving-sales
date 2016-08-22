@@ -32,7 +32,7 @@ Yes we are done with video games. Selling most of our gears.
 4. [Acer Projector](items/projector.md) - $300
 5. [Epson Projection Screen](items/screen.md) - $120
 6. [HDMI (long) Cable](items/hdmi-cable.md) - $6
-7. [Wii + Wii Fit](items/wii.md) - $10
+7. [Wii + Wii Fit](items/wii.md) - SOLD
 
 ## Computer/Camera
 
