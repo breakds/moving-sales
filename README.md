@@ -16,7 +16,7 @@ And **More** are coming! :smile:
 
 ## Electronics
 
-1. [Garmin GPS](items/gps.md) - $10
+1. [Garmin GPS](items/gps.md) - SOLD
 2. [Heater](items/heater.md) - $20
 3. [Humidifier](items/humidifier.md) - SOLD
 4. [Desk Lamp (black)](items/desk_lamp_black.md) - $5
