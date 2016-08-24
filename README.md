@@ -10,7 +10,7 @@ And **More** are coming! :smile:
 
 ## Furnitures
 
-1.  [Dining Table](items/dining_table.md) - $20
+1.  [Dining Table](items/dining_table.md) - SOLD
 2.  [Tea Table](items/tea_table.md) - $5
 3.  [Futon](items/futon.md) -  $60
 
