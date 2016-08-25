@@ -1,6 +1,6 @@
 # 棕色书桌/电脑桌
 
-![Printer](https://github.com/breakds/moving-sales/blob/master/photo/resized/bookshelf.png)
+![Printer](https://github.com/breakds/moving-sales/blob/master/photo/resized/computer_desk_brown.png)
 
 ## Sale Info
 
