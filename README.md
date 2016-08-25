@@ -10,15 +10,15 @@ And **More** are coming! :smile:
 
 ## Furnitures
 
-1.  [Dining Table](items/dining_table.md) - SOLD
-2.  [Tea Table](items/tea_table.md) - $5
-3.  [Futon](items/futon.md) -  $60
+1.  [~~Dining Table~~](items/dining_table.md) - SOLD
+2.  [Tea Table](items/tea_table.md) - **FREE**
+3.  [Futon](items/futon.md) -  $30
 
 ## Electronics
 
-1. [Garmin GPS](items/gps.md) - SOLD
-2. [Heater](items/heater.md) - $20
-3. [Humidifier](items/humidifier.md) - SOLD
+1. [~~Garmin GPS~~](items/gps.md) - SOLD
+2. [Heater](items/heater.md) - $10
+3. [~~Humidifier~~](items/humidifier.md) - SOLD
 4. [Desk Lamp (black)](items/desk_lamp_black.md) - $5
 5. [Desk Lamp (silver)](items/desk_lamp_silver.md) - SOLD
 
@@ -26,17 +26,17 @@ And **More** are coming! :smile:
 
 Yes we are done with video games. Selling most of our gears.
 
-1. [Sony PlayStation 3](items/ps3.md) - $120
+1. [Sony PlayStation 3](items/ps3.md) - $90
 2. [PSP 3000 (black)](items/psp_black.md) - $30
-3. [PSP 3000 (white)](items/psp_white.md) - $25
+3. [PSP 3000 (white)](items/psp_white.md) - **FREE**
 4. [Acer Projector](items/projector.md) - $300
 5. [Epson Projection Screen](items/screen.md) - $120
-6. [HDMI (long) Cable](items/hdmi-cable.md) - SOLD
-7. [Wii + Wii Fit](items/wii.md) - SOLD
+6. [~~HDMI (long) Cable~~](items/hdmi-cable.md) - SOLD
+7. [~~Wii + Wii Fit~~](items/wii.md) - SOLD
 
 ## Computer/Camera
 
-1. [Apple Macbook](items/mac.md) - $200
-2. [Panosonic LX3 Digital Camera](items/lx3.md) - $80
-3. [Panosonic LX5 Digital Camera](items/lx5.md) - $100
-4. [HP Wireless Printer/Scanner](items/printer.md) - $40
+1. [Apple Macbook](items/mac.md) - $150
+2. [Panosonic LX3 Digital Camera](items/lx3.md) - $40
+3. [Panosonic LX5 Digital Camera](items/lx5.md) - $50
+4. [HP Wireless Printer/Scanner](items/printer.md) - $30
