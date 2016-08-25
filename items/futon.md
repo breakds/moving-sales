@@ -7,11 +7,12 @@
 * **Price**: **`$30`**, OBO
 * **Email**: break.ds+sales@gmail.com
 * **Notes** 
-  * Pick up only
+  * 需上门自取
   * No refund
 
 ## Description and Specs
 
-* Converts into a Queen bed
-* Cover can be taken off and washed
+* 可以变形成为Queen Size双人床，内胆外翻作为床面
+* 内含Matress
+* 外套可拆洗
 * IKEA product. The closest one I can find online is [this](http://www.ikea.com/us/en/catalog/products/S49089425/)
