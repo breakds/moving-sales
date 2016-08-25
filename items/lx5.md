@@ -5,7 +5,7 @@
 ## Sale Info
 
 * **Price**:
-  * **`$100`** OBO
+  * **`$50`** OBO
 * **Email**: break.ds+sales@gmail.com
 * **Notes**
   * Pick up only
