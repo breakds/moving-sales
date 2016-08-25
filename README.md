@@ -15,6 +15,7 @@ And **More** are coming! :smile:
 3.  [Queen Size 双人沙发床](items/futon.md) -  $30
 4.  [六层白色书架](items/bookshelf.md) - **免费**
 5.  [宜家白色小茶桌](items/small_tea_table.md) - **免费**
+6.  [棕色鞋柜](items/shoe_shelf.md) - **免费**
 
 ## Electronics
 
