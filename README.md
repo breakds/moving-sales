@@ -10,17 +10,17 @@ And **More** are coming! :smile:
 
 ## Furnitures
 
-1.  [Dining Table](items/dining_table.md) - $20
+1.  [Dining Table](items/dining_table.md) - SOLD
 2.  [Tea Table](items/tea_table.md) - $5
 3.  [Futon](items/futon.md) -  $60
 
 ## Electronics
 
-1. [Garmin GPS](items/gps.md) - $10
+1. [Garmin GPS](items/gps.md) - SOLD
 2. [Heater](items/heater.md) - $20
-3. [Humidifier](items/humidifier.md) - $10
+3. [Humidifier](items/humidifier.md) - SOLD
 4. [Desk Lamp (black)](items/desk_lamp_black.md) - $5
-5. [Desk Lamp (silver)](items/desk_lamp_silver.md) - $5
+5. [Desk Lamp (silver)](items/desk_lamp_silver.md) - SOLD
 
 ## Entertainment
 
@@ -31,8 +31,8 @@ Yes we are done with video games. Selling most of our gears.
 3. [PSP 3000 (white)](items/psp_white.md) - $25
 4. [Acer Projector](items/projector.md) - $300
 5. [Epson Projection Screen](items/screen.md) - $120
-6. [HDMI (long) Cable](items/hdmi-cable.md) - $6
-7. [Wii + Wii Fit](items/wii.md) - $10
+6. [HDMI (long) Cable](items/hdmi-cable.md) - SOLD
+7. [Wii + Wii Fit](items/wii.md) - SOLD
 
 ## Computer/Camera
 
