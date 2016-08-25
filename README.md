@@ -14,6 +14,7 @@ And **More** are coming! :smile:
 2.  [Tea Table](items/tea_table.md) - **FREE**
 3.  [Futon](items/futon.md) -  $30
 4.  [六层白色书架](items/bookshelf.md) - **免费**
+5.  [宜家白色小茶桌](items/small_tea_table.md) - **免费**
 
 ## Electronics
 
