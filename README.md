@@ -16,6 +16,10 @@ And **More** are coming! :smile:
 4.  [六层白色书架](items/bookshelf.md) - **免费**
 5.  [宜家白色小茶桌](items/small_tea_table.md) - **免费**
 6.  [棕色鞋柜](items/shoe_shelf.md) - **免费**
+7.  [四层抽屉柜](items/dresser.md) - **$20**
+8.  [L形电脑桌](items/compute_desk_l_shaped.md) - **$100**
+9.  [棕色书桌/电脑桌](items/computer_desk_brown.md) - **$40**
+10.  [木制书桌/电脑桌](items/computer_desk_yellow.md) - **$50**
 
 ## Electronics
 
@@ -31,11 +35,12 @@ Yes we are done with video games. Selling most of our gears.
 
 1. [Sony PlayStation 3](items/ps3.md) - $90
 2. [PSP 3000 (black)](items/psp_black.md) - $30
-3. [PSP 3000 (white)](items/psp_white.md) - **FREE**
+3. [PSP 3000 (white)](items/psp_white.md) - **免费**
 4. [Acer Projector](items/projector.md) - $300
 5. [Epson Projection Screen](items/screen.md) - $120
 6. [~~HDMI (long) Cable~~](items/hdmi-cable.md) - SOLD
 7. [~~Wii + Wii Fit~~](items/wii.md) - SOLD
+8. [益智玩具](items/toy.md) - **免费**
 
 ## Computer/Camera
 
