@@ -5,8 +5,8 @@
 ## Sale Info
 
 * **Price**: 
-  * **`$120`** OBO, Console + 2 Controllers
-  * **`$150`** OBO, Console + 2 Controllers + All Games
+  * **`$90`** OBO, Console + 2 Controllers
+  * **`$100`** OBO, Console + 2 Controllers + All Games
 * **Email**: break.ds+sales@gmail.com
 * **Notes** 
   * Pick up only
@@ -16,7 +16,7 @@
 
 * Bought new on Amazon ([Amazon](https://www.amazon.com/gp/product/B003VUO6H4/ref=oh_aui_search_detailpage?ie=UTF8&psc=1))
 * Has 2 wireless controller (1 Black + 1 White), with USB charge cables
-* Plus $30 for all the following games!
+* Plus $10 for all the following games!
   * [Tekken 6](http://www.ign.com/games/tekken-6/ps3-748466)
     * IGN Score: 8.8 / 10
     * Genre: Fighting
