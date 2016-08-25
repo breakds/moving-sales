@@ -8,6 +8,8 @@ Getting rid of some extra furnitures and electronics that we do not need any mor
 
 And **More** are coming! :smile:
 
+可还价，我们非常希望这些用不上的家具/家电能够被别人用上，发挥他们自己的作用～
+
 ## Furnitures
 
 1.  [~~Dining Table~~](items/dining_table.md) - SOLD
