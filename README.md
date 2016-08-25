@@ -29,7 +29,7 @@ And **More** are coming! :smile:
 2. [Heater](items/heater.md) - $10
 3. [~~Humidifier~~](items/humidifier.md) - SOLD
 4. [Desk Lamp (black)](items/desk_lamp_black.md) - $5
-5. [Desk Lamp (silver)](items/desk_lamp_silver.md) - SOLD
+5. [~~Desk Lamp (silver)~~](items/desk_lamp_silver.md) - SOLD
 
 ## Entertainment
 
