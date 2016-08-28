@@ -18,7 +18,7 @@ And **More** are coming! :smile:
 4.  [六层白色书架](items/bookshelf.md) - **免费**
 5.  [宜家白色小茶桌](items/small_tea_table.md) - **免费**
 6.  [棕色鞋柜](items/shoe_shelf.md) - **免费**
-7.  [四层抽屉柜](items/dresser.md) - **$20**
+7.  [四层抽屉柜](items/dresser.md) - **免费**
 8.  [L形电脑桌](items/computer_desk_l_shaped.md) - **$100**
 9.  [棕色书桌/电脑桌](items/computer_desk_brown.md) - **$40**
 10.  [木制书桌/电脑桌](items/computer_desk_yellow.md) - **$50**
