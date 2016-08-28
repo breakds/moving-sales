@@ -5,7 +5,7 @@
 ## Sale Info
 
 * **价格**: 
-  * **`$20`**
+  * **Free**
 * **Email**: break.ds+sales@gmail.com
 * **Notes**
   * 需自取
